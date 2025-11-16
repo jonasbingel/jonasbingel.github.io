@@ -1,0 +1,24 @@
+/*
+  Load Kanit for headings and Noto Sans for body text.
+  This file is concatenated after the theme core CSS (see layouts/partials/head.html),
+  so it will override the theme defaults.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;700&family=Noto+Sans:wght@300;400;500;700&display=swap');
+
+/* Apply font variables defined in theme-vars.css */
+body {
+    font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-headers);
+    font-weight: var(--semibold, 500);
+}
+
+/* Ensure specific title/heading elements (if theme uses custom classes) inherit header font */
+.post-title,
+.entry-title,
+.page-title {
+    font-family: var(--font-headers);
+}
