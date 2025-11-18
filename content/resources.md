@@ -17,7 +17,7 @@ Feel free to use material but please give attribution.
 - [Mathe II (Info) KVK Sommer 2025](https://next.hessenbox.de/index.php/s/7mBf5tndGY8n5nb) w/ Deborah Christina Gradl
 
 ## Übungsgruppen
-- [Mathe I (Info)Winter 2024](https://next.hessenbox.de/index.php/s/rJDag9Kifxpt9Sa)  (aka Bingel-Box)
+- [Mathe I (Info) Winter 2024](https://next.hessenbox.de/index.php/s/rJDag9Kifxpt9Sa)  (aka Bingel-Box)
 - [Mathe II (Info) Sommer 2025](https://next.hessenbox.de/index.php/s/eHPqfy4nri4EfJZ) w/ Deborah Christina Gradl (aka Bingel-Bohrer-Box)
 
 ## *Inoffizielle* Lösungsvorschläge für Altklausuren

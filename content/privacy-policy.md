@@ -60,6 +60,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Jonas Bingel  
 Hochschulstr. 10  
+D120  
 64289 Darmstadt
 Deutschland
 
