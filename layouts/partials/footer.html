@@ -7,6 +7,12 @@
     <span>&copy; {{ now.Year }} {{ site.Title }}</span>
     {{- end }}
     {{- print " · "}}
+    <span>
+        <a href="{{ "/site-notice/" | relURL }}" rel="noopener">Impressum</a> &verbar;
+        <a href="{{ "/privacy-policy/" | relURL }}" rel="noopener">Privacy Policy</a>
+    </span>
+
+    {{- print " · "}}
     {{- end }}
 
     {{- with site.Params.footer.text }}
