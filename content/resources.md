@@ -13,17 +13,17 @@ Please message me if a link is not working or if there are any errors.
 Feel free to use the material, but please give attribution.
 
 ## Klausurvorbereitungskurse Mathe für Info 
-- [Mathe I (Info) KVK Winter 2024](https://next.hessenbox.de/index.php/s/T2NoHWDPKoNAaHZ) w/ Kim Berninger & Deborah Christina Gradl
-- [Mathe II (Info) KVK Sommer 2025](https://next.hessenbox.de/index.php/s/7mBf5tndGY8n5nb) w/ Deborah Christina Gradl
-- [Mathe I (Info) KVK Winter 2025](https://next.hessenbox.de/index.php/s/jXtBYYzx4bT2Btd) w/ Deborah Christina Gradl
+- [Mathe I (Info) KVK Winter 2024](https://next.hessenbox.de/index.php/s/DKBc4XjjY5HqGw7) w/ Kim Berninger & Deborah Christina Gradl
+- [Mathe II (Info) KVK Sommer 2025](https://next.hessenbox.de/index.php/s/DN6x8HCpLpr93w6) w/ Deborah Christina Gradl
+- [Mathe I (Info) KVK Winter 2025](https://next.hessenbox.de/index.php/s/pqYA57BHiLMiYcf) w/ Deborah Christina Gradl
 
 ## Übungsgruppen
-- [Mathe I (Info) Winter 2024](https://next.hessenbox.de/index.php/s/rJDag9Kifxpt9Sa)  (aka Bingel-Box)
-- [Mathe II (Info) Sommer 2025](https://next.hessenbox.de/index.php/s/eHPqfy4nri4EfJZ) w/ Deborah Christina Gradl (aka Bingel-Bohrer-Box)
+- [Mathe I (Info) Winter 2024](https://next.hessenbox.de/index.php/s/Wjd7oTTANrH8Ne6)  (aka Bingel-Box)
+- [Mathe II (Info) Sommer 2025](https://next.hessenbox.de/index.php/s/ZJDZCEBJnQTXLQg) w/ Deborah Christina Gradl (aka Bingel-Bohrer-Box)
 
 ## *Inoffizielle* Lösungsvorschläge für Altklausuren
-- [Mathe I (Info)](https://next.hessenbox.de/index.php/s/bg4pxab2wew6YZM)
-- [Mathe II (Info)](https://next.hessenbox.de/index.php/s/Fc3PJRC5Jjttc5c)
+- [Mathe I (Info)](https://next.hessenbox.de/index.php/s/2z5KS9wDwbLR7RY)
+- [Mathe II (Info)](https://next.hessenbox.de/index.php/s/Cmig4WowsmHmaYD)
 
 This is only for exams that are officially published in the LZM of the FB04 at TU Darmstadt.  
 The purpose of providing suggested solutions is to create a point of reference. Students should definitely work through the exams themselves beforehand to gain practice.
