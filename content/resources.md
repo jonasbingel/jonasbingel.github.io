@@ -16,6 +16,7 @@ Feel free to use the material, but please give attribution.
 - [Mathe I (Info) KVK Winter 2024](https://next.hessenbox.de/index.php/s/DKBc4XjjY5HqGw7) w/ Kim Berninger & Deborah Christina Gradl
 - [Mathe II (Info) KVK Sommer 2025](https://next.hessenbox.de/index.php/s/DN6x8HCpLpr93w6) w/ Deborah Christina Gradl
 - [Mathe I (Info) KVK Winter 2025](https://next.hessenbox.de/index.php/s/pqYA57BHiLMiYcf) w/ Deborah Christina Gradl
+- [Mathe II (Info) KVK Sommer 2026](https://next.hessenbox.de/index.php/s/aAfcKqQKrg9Dcop) w/ Deborah Christina Gradl
 
 ## Übungsgruppen
 - [Mathe I (Info) Winter 2024](https://next.hessenbox.de/index.php/s/Wjd7oTTANrH8Ne6)  (aka Bingel-Box)
