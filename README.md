@@ -32,13 +32,18 @@ The website produced by the template can be viewed at https://pascalmichaillat.o
 
 ### Local development
 
-Navigate to the website directory (`cd`) and run in the terminal:
+Hugo comes from a local [pixi](https://pixi.sh) environment, pinned to the same version as the GitHub Actions build
+(see `pixi.toml`). Nothing is installed globally; the environment lives in `.pixi/` inside this folder. The only
+requirement is pixi itself (`brew install pixi`). After cloning, run in the website directory:
 
 ```bash
-hugo server
+pixi run serve   # first run installs Hugo into .pixi/, then serves with drafts at http://localhost:1313
+pixi run build   # production build into public/, like the deploy workflow
 ```
 
-The command builds the website on your machine and makes it available at http://localhost:1313, rebuilding automatically as you edit. You can modify the content of the repository and develop your website entirely on your machine.
+`pixi run serve` rebuilds automatically as you edit.
+To change the Hugo version, update `HUGO_VERSION` in `.github/workflows/hugo.yml` and run
+`pixi add "hugo==<version>"`, so both stay the same. You can modify the content of the repository and develop your website entirely on your machine.
 
 ### Online deployment
 
