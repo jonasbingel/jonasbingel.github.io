@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Jonas Bingel <tools@jonasbingel.de>"]
+channels = ["conda-forge"]
+name = "JonasBingel.github.io"
+platforms = ["osx-arm64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+serve = "hugo server --buildDrafts"
+build = "hugo --minify"
+
+[dependencies]
+hugo = "==0.147.2"
